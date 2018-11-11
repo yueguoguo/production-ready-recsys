@@ -63,11 +63,11 @@ The list contains research work in production-ready recommendation systems in th
 |Product size|Amazon|2017|[Link](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p243-sembium.pdf)|-|-|
 |Ads|Microsoft|2017|[Link](https://pdfs.semanticscholar.org/e415/d1fc1ec9609dc4895cc4021b15fbc5c8c2e1.pdf)|-|-|
 |Music|Clova|2017|[Link](http://ceur-ws.org/Vol-1905/recsys2017_poster18.pdf)|-|-|
-|Meals|CornelTech|2016|[Link](https://arxiv.org/pdf/1605.07722.pdf)|-|-|
-|Videos|Google|2016|[Link](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)|-|-|
 |News article|Yahoo! Japan|2017|[Link](http://delivery.acm.org/10.1145/3100000/3098108/p1933-okura.pdf?ip=167.220.255.60&id=3098108&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1530368701_a1e53cb4a75e4af0a7d321832d16affd)|-|-|
 |Display Ads|Alibaba|2017|[Link](http://delivery.acm.org/10.1145/3100000/3098089/p2091-yang.pdf?ip=167.220.255.60&id=3098089&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1530368508_72e99f64f98e923c74e6953a26b915a8)|-|-|
 |Mobile App|Google|2016|[Link](https://arxiv.org/pdf/1606.07792.pdf)|-|-|
+|Meals|CornelTech|2016|[Link](https://arxiv.org/pdf/1605.07722.pdf)|-|-|
+|Videos|Google|2016|[Link](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)|-|-|
 |Movie|Netflix|2015|[Link](https://dl.acm.org/citation.cfm?id=2843948)|-|-|
 |Social media|Yahoo!|2011|[Link](http://www.ramb.ethz.ch/CDstore/www2011/companion/p101.pdf)|-|-| 
 |News article|Yahoo!|2010|[Link](https://arxiv.org/abs/1003.0146)|-|-|
