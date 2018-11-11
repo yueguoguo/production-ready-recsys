@@ -52,6 +52,7 @@ The list contains research work in production-ready recommendation systems in th
 
 |Things to recommend|Author|Year|Text resources|Codes|Remarks|
 |--------------|:-------------:|:--------:|--------------|--------------|--------------|
+|Music|Spotify|2018|[Link](https://dl.acm.org/citation.cfm?id=3240354)|-|-|
 |Retail products|Overstock|2018|[Link](https://arxiv.org/pdf/1806.11226.pdf)|-|-|
 |Online items|Pinterest|2018|[Link](https://arxiv.org/pdf/1711.07601.pdf)|-|-|
 |Retail products|JD.com|2017|[Link](https://arxiv.org/ftp/arxiv/papers/1709/1709.00300.pdf)|-|-|
